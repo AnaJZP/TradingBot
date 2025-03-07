@@ -36,7 +36,7 @@ proyecto_analisis_bursatil/
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/proyecto_analisis_bursatil.git
+git clone https://github.com/tu-usuario/TradingBot.git
 cd proyecto_analisis_bursatil
 ```
 
